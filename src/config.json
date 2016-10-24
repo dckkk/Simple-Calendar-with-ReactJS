@@ -1,0 +1,13 @@
+{
+    "server": {
+        "url": "http://transformatika.io",
+    },
+    "repository": [
+        {
+            "url": "http://apps.transformatika.io",
+            "md5": "md5checksum",
+            "sha256": "sha256checksum",
+            "priority": 0
+        }
+    ]
+}
